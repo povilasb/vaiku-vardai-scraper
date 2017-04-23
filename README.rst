@@ -11,7 +11,7 @@ Usage
 
 Scrape all name URLS and save output to json formatted file::
 
-    pyenv/bin/scrapy runspider vardai_scraper/spiders.py -o urls.json
+    pyenv/bin/scrapy runspider vardai_scraper/spiders/directory.py -o urls.json
 
 Setup
 =====
